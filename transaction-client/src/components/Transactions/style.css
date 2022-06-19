@@ -1,0 +1,28 @@
+.step_item  .ant-steps-item-content{
+    border: 1px solid#d5e2fe;
+    background-color: #f0f5ff;
+    padding: 0 10px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+}
+
+.step_item-to  .ant-steps-item-content{
+    border: 1px solid#e6cefb;
+    background-color: #f8f0ff;
+    padding: 0 10px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+}
+
+
+.step_item .ant-steps-icon-dot {
+    border: 1px solid#d5e2fe;
+
+        background-color: #2e47c8 !important;
+}
+
+.step_item-to .ant-steps-icon-dot {
+    border: 1px solid#e6cefb;
+    background-color: #8156c2 !important;
+
+}
